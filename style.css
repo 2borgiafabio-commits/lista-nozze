@@ -191,9 +191,9 @@ footer { text-align: center; padding: 2rem 0 3rem; }
   font-size: 2rem;
   font-weight: 700;
   color: var(--bordeaux);
-  letter-spacing: -0.12em;
 }
 .monogramma .b { display: inline-block; transform: scaleX(-1); }
+.monogramma .f { display: inline-block; margin-left: -0.31em; }
 
 @media (max-width: 480px) {
   .card img { height: 250px; }
