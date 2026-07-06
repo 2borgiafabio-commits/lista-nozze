@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Lista di nozze — Benedetta e Fabio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128141;</text></svg>">
+</head>
+<body>
+
+  <header class="cover">
+    <h1 class="script">Lista di nozze</h1>
+    <p class="script sub">Benedetta e Fabio</p>
+  </header>
+
+  <section class="intro">
+    <p>Il regalo più grande per noi sarà avervi al nostro fianco nel giorno
+    più bello della nostra vita. Se desiderate farci un pensiero, abbiamo
+    racchiuso in una lista i desideri, gli oggetti e le esperienze che ci
+    accompagneranno in questo nuovo capitolo.</p>
+  </section>
+
+  <main>
+    <section id="regali" aria-label="Regali">
+      <div class="grid" id="grid-regali"></div>
+    </section>
+
+    <section id="corredo" aria-label="Corredo">
+      <h2 class="script">Corredo</h2>
+      <div class="corredo-wrap">
+        <div class="corredo-col">
+          <h3 class="script">Biancheria da letto</h3>
+          <ul id="lista-letto"></ul>
+        </div>
+        <div class="corredo-col">
+          <h3 class="script">Biancheria da bagno</h3>
+          <ul id="lista-bagno"></ul>
+        </div>
+      </div>
+      <figure class="corredo-fig">
+        <img src="img/corredo.jpg" alt="Biancheria ricamata e accappatoio" loading="lazy">
+      </figure>
+    </section>
+
+    <section id="viaggio" aria-label="Viaggio di nozze">
+      <h2 class="script" id="viaggio-titolo">Il viaggio dei nostri sogni</h2>
+      <figure class="viaggio-fig" id="viaggio-fig">
+        <img src="img/patagonia.jpg" alt="Illustrazione della Patagonia" loading="lazy">
+      </figure>
+    </section>
+
+    <section id="contributo" aria-label="Come contribuire">
+      <p>Se desiderate contribuire alla realizzazione di questi progetti,
+      potete farlo comodamente tramite bonifico bancario:</p>
+      <div class="iban-box">
+        <p class="iban-riga"><span class="etichetta">IBAN</span> <span id="iban">IT68E0366901600360487847191</span></p>
+        <p class="iban-riga"><span class="etichetta">Intestato a</span> Fabio e Benedetta</p>
+        <p class="iban-riga"><span class="etichetta">Causale</span> Regalo di nozze – Vostro Nome e Cognome</p>
+        <button id="copia-iban" type="button">Copia IBAN</button>
+      </div>
+      <p class="grazie">Grazie di cuore per l'affetto, la vicinanza e per aiutarci
+      a dare forma al nostro futuro insieme.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="monogramma" aria-hidden="true"><span class="b">B</span><span class="f">F</span></div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

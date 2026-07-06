@@ -1,0 +1,174 @@
+{
+  "regali": [
+    {
+      "id": "spremiagrumi",
+      "titolo": "Una ricarica di energia e freschezza",
+      "prezzo": 179,
+      "foto": "img/spremiagrumi.jpg",
+      "regalato": false
+    },
+    {
+      "id": "bollitore",
+      "titolo": "Il profumo del tè e dei momenti lenti",
+      "prezzo": 179,
+      "foto": "img/bollitore.jpg",
+      "regalato": false
+    },
+    {
+      "id": "tostapane",
+      "titolo": "Il rito del pane tostato",
+      "prezzo": 199,
+      "foto": "img/tostapane.jpg",
+      "regalato": false
+    },
+    {
+      "id": "espresso",
+      "titolo": "Il vero espresso italiano a casa",
+      "prezzo": 869,
+      "foto": "img/espresso.jpg",
+      "regalato": false
+    },
+    {
+      "id": "frigorifero",
+      "titolo": "La destinazione preferita dei nostri viaggi in cucina!",
+      "prezzo": 2149,
+      "foto": "img/frigorifero.jpg",
+      "regalato": false
+    },
+    {
+      "id": "sbattitore",
+      "titolo": "Per montare a neve i nostri sogni più dolci",
+      "prezzo": 159,
+      "foto": "img/sbattitore.jpg",
+      "regalato": false
+    },
+    {
+      "id": "tagliere",
+      "titolo": "Un tagliere ricco di chiacchiere, risate e buon cibo",
+      "prezzo": 140,
+      "foto": "img/tagliere.jpg",
+      "regalato": false
+    },
+    {
+      "id": "frullatore",
+      "titolo": "Per quando la vita ha bisogno di una bella frullata!",
+      "prezzo": 159,
+      "foto": "img/frullatore.jpg",
+      "regalato": false
+    },
+    {
+      "id": "gelatiera",
+      "titolo": "Il rimedio perfetto per rinfrescare gli animi nei giorni caldi",
+      "prezzo": 140,
+      "foto": "img/gelatiera.jpg",
+      "regalato": false
+    },
+    {
+      "id": "fotocamera",
+      "titolo": "Il modo migliore per accogliere gli amici... e catturare i ricordi",
+      "prezzo": 950,
+      "foto": "img/fotocamera.jpg",
+      "regalato": false
+    }
+  ],
+  "corredo_letto": [
+    {
+      "id": "letto-cerchi-acqua",
+      "titolo": "Completo letto mis 270x290 raso ricamo cerchi col acqua",
+      "prezzo": 470,
+      "regalato": false
+    },
+    {
+      "id": "letto-esse-blu",
+      "titolo": "Completo letto mis 270x290 ricamo esse blu",
+      "prezzo": 249,
+      "regalato": false
+    },
+    {
+      "id": "letto-pelle-ovo",
+      "titolo": "Completo letto pelle ovo mis 270x290",
+      "prezzo": 310,
+      "regalato": false
+    },
+    {
+      "id": "letto-adria",
+      "titolo": "Completo letto mis 270x290 mod. Adria con passamaneria col bianco/giallo",
+      "prezzo": 590,
+      "regalato": false
+    },
+    {
+      "id": "letto-kimon",
+      "titolo": "Completo letto raso mis 270x290 fantasia Kimon",
+      "prezzo": 275,
+      "regalato": false
+    },
+    {
+      "id": "quilt-raso",
+      "titolo": "Quilt raso di cotone mis 270x270 colore fango o bordò",
+      "prezzo": 275,
+      "regalato": false
+    },
+    {
+      "id": "guanciale-lattice",
+      "titolo": "Guanciale lattice – mis 70x140",
+      "prezzo": 138,
+      "regalato": false
+    },
+    {
+      "id": "guanciale-piuma",
+      "titolo": "Guanciale in piuma – mis 48x78",
+      "prezzo": 84,
+      "regalato": false
+    },
+    {
+      "id": "trapunta-velluto",
+      "titolo": "Trapunta mis 270x270 velluto color petrolio",
+      "prezzo": 460,
+      "regalato": false
+    }
+  ],
+  "corredo_bagno": [
+    {
+      "id": "spugna-roma",
+      "titolo": "Coppia spugna Roma",
+      "prezzo": 132,
+      "regalato": false
+    },
+    {
+      "id": "spugna-esse",
+      "titolo": "Coppie spugna con ricamo esse",
+      "prezzo": 84,
+      "regalato": false
+    },
+    {
+      "id": "teli-roma",
+      "titolo": "Teli spugna Roma",
+      "prezzo": 120,
+      "regalato": false
+    },
+    {
+      "id": "scendidoccia",
+      "titolo": "Tappeti scendidoccia",
+      "prezzo": 36,
+      "regalato": false
+    },
+    {
+      "id": "tappeto-elegance",
+      "titolo": "Tappeto elegance mis 60x100",
+      "prezzo": 65,
+      "regalato": false
+    },
+    {
+      "id": "accappatoi",
+      "titolo": "Accappatoi cimati sciallati",
+      "prezzo": 190,
+      "regalato": false
+    }
+  ],
+  "viaggio": {
+    "id": "viaggio",
+    "titolo": "Il viaggio dei nostri sogni",
+    "foto": "img/patagonia.jpg",
+    "regalato": false
+  }
+}
