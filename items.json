@@ -19,7 +19,7 @@
       "titolo": "Il rito del pane tostato",
       "prezzo": 199,
       "foto": "img/tostapane.jpg",
-      "regalato": true
+      "regalato": false
     },
     {
       "id": "espresso",
