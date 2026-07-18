@@ -54,7 +54,7 @@
       "titolo": "Per quando la vita ha bisogno di una bella frullata!",
       "prezzo": 159,
       "foto": "img/frullatore.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "gelatiera",
