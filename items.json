@@ -47,7 +47,7 @@
       "titolo": "Un tagliere ricco di chiacchiere, risate e buon cibo",
       "prezzo": 140,
       "foto": "img/tagliere.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "frullatore",
